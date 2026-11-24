@@ -8,3 +8,8 @@ body {
 main { min-height: calc(100vh - 64px); }
 h1, h2, h3 { margin: 0 0 12px; }
 a { color: inherit; }
+
+:focus-visible {
+  outline: 2px solid #7c5cff;
+  outline-offset: 2px;
+}
