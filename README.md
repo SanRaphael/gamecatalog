@@ -1,26 +1,26 @@
 # GameCatalog
 
-Каталог бесплатных игр на React. Данные — [FreeToGame API](https://www.freetogame.com/api-docs).
+Каталог бесплатных игр на React. Данные - [FreeToGame API](https://www.freetogame.com/api-docs).
 
-## Демо
+Демо
 
 🔗 **Задеплоено:** gamecatalog-v6tx.vercel.app
 
-## Стек
+Стек
 
 - React + Vite
 - Redux Toolkit (управление состоянием)
 - React Router (роутинг)
 - styled-components (CSS-in-JS)
 
-## Функциональность
+Функционал
 
 - Список игр с фильтром по жанрам
 - Страница деталей игры
 - Избранное: добавление/удаление, поиск по каталогу
 - Форма добавления игры с валидацией
 
-## Запуск локально
+Запуск локально
 
 ```bash
 npm install
