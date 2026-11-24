@@ -2,7 +2,7 @@ import { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import styled from 'styled-components';
 import { loadGames, setCategory } from '../features/games/gamesSlice';
-import GameCard from '../components/GameCard';
+import GameCard from '../components/gamecard';
 
 const Filters = styled.nav`
   display: flex;
